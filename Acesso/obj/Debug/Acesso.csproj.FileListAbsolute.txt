@@ -1,0 +1,6 @@
+c:\users\55519\documents\visual studio 2015\Projects\PortalEscola\Acesso\bin\Debug\Acesso.dll
+c:\users\55519\documents\visual studio 2015\Projects\PortalEscola\Acesso\bin\Debug\Acesso.pdb
+c:\users\55519\documents\visual studio 2015\Projects\PortalEscola\Acesso\obj\Debug\Acesso.dll
+c:\users\55519\documents\visual studio 2015\Projects\PortalEscola\Acesso\obj\Debug\Acesso.pdb
+C:\Users\55519\Documents\Visual Studio 2015\Projects\PortalEscola\Acesso\obj\Debug\Acesso.csprojAssemblyReference.cache
+C:\Users\55519\Documents\Visual Studio 2015\Projects\PortalEscola\Acesso\obj\Debug\Acesso.csproj.CoreCompileInputs.cache
